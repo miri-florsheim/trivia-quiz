@@ -1,4 +1,6 @@
-
+# trivia game
+# (You can add and change the questions as you wish)
+#  09/2024
 def run_quiz(questions):
 	score = 0
 	for questions in questions:
